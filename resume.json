@@ -1,0 +1,133 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",
+  "basics": {
+    "name": "Justin \"Avery\" Chan",
+    "label": "Software Developer",
+    "email": "justinaverychan@gmail.com",
+    "phone": "(734) 418-3290",
+    "url": "https://www.averychan.site/",
+    "summary": "I need to have a summary. Depends on the context. What even is personhood anyways?",
+    "location": {
+      "city": "Madison",
+      "countryCode": "US",
+      "region": "Wisconsin"
+    },
+    "profiles": [
+      {
+        "url": "https://github.com/Avery2"
+      },
+      {
+        "url": "https://www.linkedin.com/in/avery2/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "MAterials Simulation Toolkit – Machine Learning (MAST-ML)",
+      "location": "Wisconsin, United States",
+      "position": "Member",
+      "url": "https://github.com/uw-cmg/MAST-ML",
+      "startDate": "2020-02",
+      "summary": "Working under Dr. Ryan Jacobs from the University of Wisconsin-Madison Computational Materials Group. Developing the MAST-ML tool, an open-source Python package, by debugging, code refactoring, and building additional functionality such as removal of data twins to increase model performance and integration of the gplearn python library. (Python)",
+      "highlights": ["Data twins", "Etc"]
+    },
+    {
+      "name": "Halo",
+      "location": "Chicago, United States",
+      "position": "Software Engineer Intern",
+      "url": "https://www.halo.science/",
+      "startDate": "2021-05-15",
+      "endDate": "2021-08-15",
+      "summary": "*Halo* is a company.",
+      "highlights": [
+        "Python scraper",
+        "Standups",
+        "Web design",
+        "Storybook and Chromatic"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Node.js",
+      "description": "*Node.js* is an open-source, cross-platform, back-end JavaScript runtime environment that executes JavaScript code outside a web browser.",
+      "highlights": [
+        "Commodo elit at imperdiet dui",
+        "Id volutpat lacus laoreet non",
+        "Accumsan lacus vel facilisis"
+      ],
+      "url": "https://nodejs.org/",
+      "roles": ["contributor", "evangelist"]
+    },
+    {
+      "name": "Deno",
+      "description": "*Deno* is a runtime for JavaScript and TypeScript that is based on the V8 JavaScript engine and the Rust programming language. It was created by **Ryan Dahl**, original creator of Node.js, and is focused on productivity. It was announced by Dahl in 2018 during his talk \"*10 Things I Regret About Node.js*\".",
+      "highlights": [
+        "Vitae tempus quam pellentesque",
+        "Dui accumsan sit amet nulla",
+        "Ultrices vitae auctor eu augue",
+        "Scelerisque felis imperdiet",
+        "Pellentesque dignissim enim sit"
+      ],
+      "url": "https://deno.land/",
+      "roles": ["creator"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [
+        "Java",
+        "Python",
+        "HTML",
+        "CSS",
+        "Javascript (Typescript, Google Apps Script)",
+        "C",
+        "R"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": ["React", "Redux"]
+    },
+    {
+      "name": "Tools",
+      "keywords": ["VS Code", "Git (CLI)"]
+    },
+    {
+      "name": "Technologies",
+      "keywords": ["Docker", "Kubernetes", "AWS"]
+    },
+    {
+      "name": "Other",
+      "keywords": ["Open source", "XP"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Oklahoma",
+      "url": "https://www.ou.edu/",
+      "area": "Information Technology",
+      "studyType": "Bachelor"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Pixelart"
+    },
+    {
+      "name": "Open Source"
+    },
+    {
+      "name": "Gardening"
+    },
+    {
+      "name": "Writing"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
